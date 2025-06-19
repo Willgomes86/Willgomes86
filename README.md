@@ -10,7 +10,7 @@
 
 - **Dominum** — Sistema de gestão de bar com QR Code e painel de cozinha.  
 - **Santhera** — Sistema completo de gestão clínica.  
-- **Hamburgueria_JR** — Sistema estilo RPG de pedidos.  
+- **Burguer & Quests** — Sistema estilo RPG de pedidos.  
 - **Mapeamento de Instrutores** — Mapa interativo global com Django e Folium.
 
 **Por questões estratégicas, mantenho estes projetos privados até a conclusão completa.**
