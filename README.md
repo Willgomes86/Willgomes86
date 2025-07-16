@@ -8,7 +8,7 @@
 
 ## 🚧 Projetos em desenvolvimento privado:
 
-- **Dominum** — Sistema de gestão de bar com QR Code e painel de cozinha.  
+- **Dominum** é um sistema completo e modular de gerenciamento para bares, restaurantes e similares. O objetivo é oferecer uma experiência digital fluida e moderna para clientes e funcionários, com painéis separados por perfil, controle de estoque, comandas individuais e integração com pagamento via QR Code.
 - **Santhera** — Sistema completo de gestão clínica.  
 - **Burguer & Quests** — Sistema estilo RPG de pedidos.  
 - **Mapeamento de Instrutores** — Mapa interativo global com Django e Folium.
