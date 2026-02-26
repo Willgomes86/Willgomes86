@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Willyan Gomes!
 
-🎯 Cientista de Dados e Desenvolvedor Full Stack  
+🎯 Desenvolvedor Backend, já atuei como Cientista de Dados no ramo bancário  
 💻 Experiência prática com Python, Django, Power BI, SQL, APIs RESTful e Machine Learning.  
 🚀 Mantenho projetos próprios e soluções completas, focadas em automação, análise de dados e sistemas de gestão.
 
