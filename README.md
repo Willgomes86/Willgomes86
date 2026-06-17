@@ -12,6 +12,7 @@
 - **Santhera** — Sistema completo de gestão clínica.  
 - **Burguer & Quests** — Sistema estilo RPG de pedidos.  
 - **Mapeamento de Instrutores** — Mapa interativo global com Django e Folium.
+- **Migração de site e criação de sistema** - ONG possuia um site antigo e desatualizado www.cenplafam.com.br e foi migrado para um novo site www.cenplafam.com e também foi criado um sistema de mapeamento de instrutores, cadastramento, acompanhamento e formação com emissão de certificado.
 
 **Por questões estratégicas, mantenho estes projetos privados até a conclusão completa.**
 
