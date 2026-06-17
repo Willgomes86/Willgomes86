@@ -1,36 +1,192 @@
-# 👋 Olá, eu sou o Willyan Gomes!
+# 👋 Olá, eu sou Willyan Gomes
 
-🎯 Desenvolvedor Backend, já atuei como Cientista de Dados no ramo bancário  
-💻 Experiência prática com Python, Django, Power BI, SQL, APIs RESTful e Machine Learning.  
-🚀 Mantenho projetos próprios e soluções completas, focadas em automação, análise de dados e sistemas de gestão.
+### Backend Developer • Software Engineer • Product Builder
 
----
+Desenvolvedor especializado em **Python e Django**, com foco na construção de produtos SaaS, sistemas de gestão e arquiteturas escaláveis.
 
-## 🚧 Projetos em desenvolvimento privado:
+Possuo experiência em todo o ciclo de desenvolvimento de software, desde a modelagem de domínio e arquitetura até segurança, observabilidade, automação, documentação e implantação em produção.
 
-- **Dominum** é um sistema completo e modular de gerenciamento para bares, restaurantes e similares. O objetivo é oferecer uma experiência digital fluida e moderna para clientes e funcionários, com painéis separados por perfil, controle de estoque, comandas individuais e integração com pagamento via QR Code.
-- **Santhera** — Sistema completo de gestão clínica.  
-- **Burguer & Quests** — Sistema estilo RPG de pedidos.  
-- **Mapeamento de Instrutores** — Mapa interativo global com Django e Folium.
-- **Migração de site e criação de sistema** - ONG possuia um site antigo e desatualizado www.cenplafam.com.br e foi migrado para um novo site www.cenplafam.com e também foi criado um sistema de mapeamento de instrutores, cadastramento, acompanhamento e formação com emissão de certificado.
-
-**Por questões estratégicas, mantenho estes projetos privados até a conclusão completa.**
+Anteriormente atuei como **Cientista de Dados no setor bancário**, experiência que fortaleceu minha visão analítica e orientada a dados.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🚀 Atualmente trabalhando em
 
-- Python, Django, Flask  
-- SQL (PostgreSQL, MySQL, Oracle)  
-- Power BI, Excel Avançado  
-- Docker, Git, DevOps  
-- Machine Learning (Scikit-Learn)  
-- Web scraping e automação de processos
+### 🏥 Santhera *(Projeto Privado)*
+
+Plataforma SaaS de gestão clínica desenvolvida para profissionais das áreas de Neuropsicopedagogia, Psicologia, Fonoaudiologia e Terapia Ocupacional.
+
+#### Destaques
+
+- Arquitetura modular
+- Multi-tenant
+- CQRS leve
+- Services Layer
+- Domain Contracts
+- Adapters
+- Read Models e Read Services
+- Sistema de billing e planos SaaS
+- Controle de permissões e RBAC
+- Inteligência Artificial aplicada ao domínio
+- Sistema de Claims e resolução de conflitos
+- Backup e recuperação segura
+- Autenticação em dois fatores (2FA)
+- Audit Trail
+- Observabilidade e métricas
+- Documentação técnica automatizada
+- Quality Gates no pipeline
+
+#### Métricas atuais
+
+- 23 apps
+- 130 models
+- 92 services
+- 35 adapters
+- +107 mil linhas de código
+- +3500 funções
+- +900 classes
+- +130 arquivos de testes
 
 ---
 
-## 📫 Contato
+## 🌎 Portal CENPLAFAM
 
-- [LinkedIn](https://www.linkedin.com/in/willyan-gomes-218071297)  
-- [GitHub](https://github.com/Willgomes86)  
-- Email: willyangomes86@gmail.com
+Modernização completa da presença digital da instituição.
+
+### Principais recursos
+
+- Portal institucional
+- Sistema de formação e certificação
+- Gestão de usuários
+- Controle de acesso baseado em papéis (RBAC)
+- Emissão automatizada de certificados
+- Mapeamento global de instrutores
+- Área administrativa
+- Testes End-to-End
+- Observabilidade
+- Inventário automático da arquitetura
+
+---
+
+## 🍺 Dominum *(Projeto Privado)*
+
+Sistema modular para bares e restaurantes.
+
+### Recursos
+
+- Gestão de mesas e comandas
+- Controle de estoque
+- Painel do caixa
+- Painel da cozinha
+- DRE simplificada
+- Relatórios financeiros
+- QR Code por mesa
+- Arquitetura preparada para expansão
+
+---
+
+## 🍔 Burguer & Quests *(Projeto Privado)*
+
+Sistema de pedidos inspirado em RPG e gamificação.
+
+### Recursos
+
+- Sistema de níveis
+- Classes e conquistas
+- Avatares personalizados
+- Carrinho persistente
+- Integração com Mercado Pago
+- Administração completa
+
+---
+
+## 🗺️ Mapeamento Global de Instrutores
+
+Aplicação desenvolvida com Django e Folium para visualização geográfica de instrutores ao redor do mundo.
+
+---
+
+# ⚙️ Stack Principal
+
+### Backend
+
+- Python
+- Django
+- Django REST Framework
+- Flask
+
+### Banco de Dados
+
+- PostgreSQL
+- MySQL
+- Oracle
+
+### Arquitetura
+
+- Services Layer
+- Repository Pattern
+- CQRS
+- Domain Contracts
+- Adapters
+- Multi-Tenant
+- RBAC
+
+### DevOps e Infraestrutura
+
+- Docker
+- Linux
+- Gunicorn
+- Nginx
+- Git
+- VPS Linux
+
+### Qualidade e Segurança
+
+- Pytest
+- Playwright
+- Ruff
+- Black
+- Bandit
+- Pip-Audit
+- Gitleaks
+- CI/CD
+- Audit Logs
+- 2FA
+- Observabilidade
+
+### Dados e Inteligência Artificial
+
+- Pandas
+- Scikit-Learn
+- Power BI
+- OCR
+- OpenAI
+- Web Scraping
+- Automação de Processos
+
+---
+
+# 📚 Áreas de Interesse
+
+- Engenharia de Software
+- Arquitetura de Sistemas
+- Domain-Driven Design
+- SaaS
+- DevSecOps
+- APIs REST
+- Inteligência Artificial
+- Observabilidade
+- Automação
+
+---
+
+# 📫 Contato
+
+📧 **willyangomes86@gmail.com**
+
+[LinkedIn](https://www.linkedin.com/in/willyan-gomes-218071297/)
+
+
+---
+
+> "Transformando ideias em produtos reais através de arquitetura, automação e engenharia de software."
