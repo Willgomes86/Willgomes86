@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Willyan Gomes
 
-### Backend Developer • Software Engineer • Product Builder
+### Desenvolvedor Sênior • Tech Lead • Backend Developer • Product Builder
 
 Desenvolvedor especializado em **Python e Django**, com foco na construção de produtos SaaS, sistemas de gestão e arquiteturas escaláveis.
+
+Hoje atuo como **Desenvolvedor Sênior e Tech Lead** nos projetos da **Parceiros da Educação**.
 
 Possuo experiência em todo o ciclo de desenvolvimento de software, desde a modelagem de domínio e arquitetura até segurança, observabilidade, automação, documentação e implantação em produção.
 
@@ -10,7 +12,26 @@ Anteriormente atuei como **Cientista de Dados no setor bancário**, experiência
 
 ---
 
-## 🚀 Atualmente trabalhando em
+## 💼 Atuação profissional
+
+### 🎓 Parceiros da Educação — Desenvolvedor Sênior / Tech Lead
+
+Atuo nos projetos de tecnologia da **Parceiros da Educação**, organização que trabalha pela melhoria da educação pública no Brasil, liderando tecnicamente o desenvolvimento das plataformas de avaliação e acompanhamento da aprendizagem usadas por redes de ensino.
+
+#### O que faço
+
+- Liderança técnica do time de desenvolvimento e revisão de código
+- Arquitetura e modularização de um sistema Django de grande porte
+- Definição de padrões: camadas, CQRS leve, taxonomia de erros e ADRs
+- Pipeline de CI/CD com quality gates e publicações com rollback seguro
+- Segurança, privacidade e LGPD no tratamento de dados de estudantes
+- Integrações com serviços de nuvem e inteligência artificial
+- Documentação técnica viva, gerada e verificada a partir do código
+- Mentoria de desenvolvedores em início de carreira
+
+---
+
+## 🚀 Projetos pessoais em desenvolvimento
 
 ### 🏥 Santhera *(Projeto Privado)*
 
